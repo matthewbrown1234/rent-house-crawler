@@ -1,5 +1,5 @@
-#Rent House Crawler
-##Getting Started:
+# Rent House Crawler
+## Getting Started:
 To install dependencies
 ```bash
 $ yarn
